@@ -1,0 +1,10 @@
+.container ,card{
+   
+    margin: 20px;
+    padding: 50px;
+
+    
+}
+.card{
+    gap: 20px;
+}
